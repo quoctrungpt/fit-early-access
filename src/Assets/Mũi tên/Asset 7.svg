@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1488.89 824.82">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-linecap: round;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #f29308;
+        stroke-width: 90px;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3, .cls-4 {
+        opacity: .7;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient-2);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-4228.1" y1="-1932.46" x2="-4095.24" y2="-1427.62" gradientTransform="translate(-3157.57 -1052.37) rotate(-139.18) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#000"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-3444.21" y1="-1298.11" x2="-3444.21" y2="-1849.19" gradientTransform="translate(-2334.1 -1367.67) rotate(-125.95) scale(1 -1)" xlink:href="#linear-gradient"/>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g>
+        <path class="cls-2" d="M7.83,780.51S1176.81,573.84,1227.65,241.84c31.56-191.91-172.21-124.44-237.2-24.48,0,0-225.06-304.47-330.55-104.06-88.01,172.03,381.75,357.91,743.62,426.81,7.94,1.51,10.69,11.47,4.67,16.86,0,0-12.19,12.76-120.6,107.82"/>
+        <path class="cls-1" d="M1376.4,373.49l59.6,174.39-148.42,116.9"/>
+      </g>
+      <path class="cls-3" d="M1056,494.72c-18.22-6.86-36.55-13.85-55-21-18.86-7.3-37.52-14.64-56-22-13.2,7.07-26.87,14.08-41,21-32.05,15.69-63.18,29.25-93,41,18.33,24.67,36.67,49.33,55,74,26.52-10.44,54.29-22.36,83-36,39.14-18.59,74.81-37.9,107-57Z"/>
+      <path class="cls-4" d="M1257,300.72c-12.76,28.14-27.12,48.53-38,62-12.85,15.92-25.7,28.17-36,38-12.9,12.31-24.38,22.03-33,29-15.23-3.88-31.29-8.5-48-14-20.2-6.65-38.88-13.77-56-21,19.15-12.15,34.54-23.73,46-33,15.49-12.52,30.55-24.82,47-44,12.94-15.09,22.04-28.98,28-39,30,7.33,60,14.67,90,22Z"/>
+    </g>
+  </g>
+</svg>
